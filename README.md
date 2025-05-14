@@ -1,6 +1,6 @@
 # ats_abudzar
 
-A new Flutter project.
+projek ini dibuat untuk memenuhi tugas ats matakuliah mobile programming
 
 ## Getting Started
 
